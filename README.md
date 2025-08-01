@@ -41,7 +41,6 @@ R-squared Score (R²)
 
 The comparison of the models is visualized using a bar plot of their R-squared scores.
 
-The comparison of the models is visualized using a bar plot of their R-squared scores.
 
 <img width="924" height="727" alt="REGRESSION" src="https://github.com/user-attachments/assets/69be71d3-3516-49e5-8c5f-95e89925c21b" />
 
